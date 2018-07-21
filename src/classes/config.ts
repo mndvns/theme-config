@@ -58,7 +58,6 @@ export default class Config {
 
     return output
   }
-
 }
 
 function toCustomProperties(buffer) {
