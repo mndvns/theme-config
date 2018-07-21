@@ -1,0 +1,18 @@
+module.exports = {
+  '--hues-4': 100,
+  '--color-chr': '50%',
+  '--color-hue': 'var(--hues-4, 100)',
+  '--color-lig': 'var(--color-chr, 50%)',
+  '--unit-md': '12px',
+  '--unit-sm': '3px',
+  '--unit-sm': '3px',
+  '--unit-md': '12px',
+  '--unit-lg': '32px',
+  '--unit-lg': '32px',
+  '--size-md': 'var(--unit-md, 12px)',
+  '--size-sm': 'var(--unit-sm, 3px)',
+  '--size-lg': 'var(--unit-lg, 32px)',
+  '--button-padding-sm': 'var(--unit-sm, 3px)',
+  '--button-padding-md': 'var(--unit-md, 12px)',
+  '--button-padding-lg': 'var(--unit-lg, 32px)',
+}

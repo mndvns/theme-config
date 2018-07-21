@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "module": "es2015",
+    "pretty": true,
+    "sourceMap": true,
+    "target": "es6",
+    "lib": [
+      "node",
+      "es5",
+      "es6",
+      "es7"
+    ]
+  }
+}
